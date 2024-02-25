@@ -46,7 +46,7 @@ function Header() {
           -z-20"
         />
         <Image
-          src="/trello_logo.svg.png"
+          src="/trello_logo.png"
           alt="Trello Logo"
           width={300}
           height={100}
